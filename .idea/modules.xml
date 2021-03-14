@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/exploring-jms/TopicPubSubSamples/Practicals.iml" filepath="$PROJECT_DIR$/examples/openwire/exploring-jms/TopicPubSubSamples/Practicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/exploring-jms/QueuePTPSamples/QueuePTPSamples.iml" filepath="$PROJECT_DIR$/examples/openwire/exploring-jms/QueuePTPSamples/QueuePTPSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/exploring-jms/TopicPubSubSamples/TopicPubSubSamples.iml" filepath="$PROJECT_DIR$/examples/openwire/exploring-jms/TopicPubSubSamples/TopicPubSubSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/amqp/amqp.iml" filepath="$PROJECT_DIR$/examples/amqp/amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/examples/openwire/ecommerce/ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-composite-destinations/jms-example-composite-destinations.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-composite-destinations/jms-example-composite-destinations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-durable-sub/jms-example-durable-sub.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-durable-sub/jms-example-durable-sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-exclusive-consumer/jms-example-exclusive-consumer.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-exclusive-consumer/jms-example-exclusive-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-message-browser/jms-example-message-browser.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-message-browser/jms-example-message-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-queue/jms-example-queue.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-queue/jms-example-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-queue-selector/jms-example-queue-selector.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-queue-selector/jms-example-queue-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-temp-destinations/jms-example-temp-destinations.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-temp-destinations/jms-example-temp-destinations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-topic/jms-example-topic.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-topic/jms-example-topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-transaction/jms-example-transaction.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-transaction/jms-example-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-wildcard-consumer/jms-example-wildcard-consumer.iml" filepath="$PROJECT_DIR$/examples/openwire/advanced-scenarios/jms-example-wildcard-consumer/jms-example-wildcard-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/mqtt/mqtt.iml" filepath="$PROJECT_DIR$/examples/mqtt/mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/java/openwire.iml" filepath="$PROJECT_DIR$/examples/openwire/java/openwire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/stomp/stomp.iml" filepath="$PROJECT_DIR$/examples/stomp/stomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/openwire/swissarmy/swissarmy.iml" filepath="$PROJECT_DIR$/examples/openwire/swissarmy/swissarmy.iml" />
+    </modules>
+  </component>
+</project>

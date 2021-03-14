@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="web">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/web/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/rome-1.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/rome-utils-1.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/apache-jsp-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/spring-webmvc-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/asm-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/ecj-3.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-servlet-api-9.0.39.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/javax.security.auth.message-1.0.0.v201108011116.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/apache-jstl-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-websocket-api-9.0.39.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/jolokia-core-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/apache-el-8.5.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/jetty-all-9.4.35.v20201120-uber.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/spring-web-4.3.29.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/apache-jsp-8.5.54.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
