@@ -73,7 +73,6 @@ class ConnectionService{
         return cf.createQueueConnection();
     }
 
-
     public QueueSession getQueueSession(QueueConnection conn) throws JMSException{
         return conn.createQueueSession(false, Session.AUTO_ACKNOWLEDGE);
     }
